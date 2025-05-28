@@ -1,0 +1,101 @@
+Breed,Price (USD),Population (USA),Weight (kg),Height (cm),Life Expectancy (years)
+Labrador Retriever,1428,483696,12,76,11
+German Shepherd,1492,313994,31,67,8
+Golden Retriever,2505,274184,49,53,8
+French Bulldog,1584,798137,19,78,11
+Bulldog,2956,502887,9,36,8
+Poodle,1938,436419,40,65,10
+Beagle,876,91494,11,54,12
+Rottweiler,2792,488052,38,44,10
+German Shorthaired Pointer,1905,355749,36,46,16
+Yorkshire Terrier,2371,372840,26,42,8
+Boxer,1396,368820,48,68,12
+Dachshund,1579,184819,26,57,14
+Pembroke Welsh Corgi,1888,619134,49,31,12
+Siberian Husky,1034,859376,42,32,11
+Australian Shepherd,1341,156781,12,71,13
+Great Dane,2263,136741,53,40,14
+Doberman Pinscher,1390,830707,34,79,15
+Cavalier King Charles Spaniel,2749,521958,41,34,12
+Miniature Schnauzer,2955,591195,59,53,12
+Shih Tzu,1175,268157,19,78,12
+Boston Terrier,2256,788159,17,76,11
+Bernese Mountain Dog,1356,524118,26,66,12
+Pomeranian,1242,743724,8,38,13
+Havanese,1937,606690,12,79,14
+Shetland Sheepdog,1652,601527,26,42,11
+Brittany Spaniel,2044,306499,55,30,9
+English Springer Spaniel,1307,608992,35,22,15
+Cocker Spaniel,2116,314002,13,33,13
+Vizsla,1673,701788,14,50,13
+Mastiff,1649,257360,20,79,15
+Chihuahua,2324,250273,6,29,9
+Pug,1380,341234,8,30,13
+Maltese,1400,213456,4,25,14
+Basset Hound,900,98765,27,33,12
+Collie,1550,154321,30,56,14
+Weimaraner,2100,98765,40,65,11
+Rhodesian Ridgeback,2300,45678,38,61,13
+Newfoundland,2500,34567,60,71,10
+Border Collie,1700,76890,20,50,13
+West Highland White Terrier,1800,98760,10,28,15
+Bichon Frise,1900,112345,7,25,14
+Akita,2700,78901,45,66,11
+St. Bernard,2200,65432,70,80,8
+Bloodhound,1400,87654,50,68,10
+Australian Cattle Dog,1500,67543,25,46,12
+Alaskan Malamute,2600,54321,55,69,12
+Bullmastiff,3000,43210,65,68,10
+Chinese Shar-Pei,2400,32109,25,49,11
+Cairn Terrier,1100,21098,15,32,14
+Dalmatian,1800,10987,27,61,13
+Italian Greyhound,1400,8765,7,40,15
+Whippet,1200,6543,10,44,13
+Papillon,1600,4321,5,28,15
+Chow Chow,2900,3210,50,56,12
+Norfolk Terrier,1700,2100,8,25,14
+Soft Coated Wheaten Terrier,1500,1200,20,45,14
+Irish Setter,2500,1100,29,64,13
+Lhasa Apso,1800,1500,7,28,15
+Jack Russell Terrier,1200,1300,8,35,16
+Norwegian Elkhound,1600,1700,22,50,13
+Great Pyrenees,2200,1900,54,70,10
+Keeshond,2100,1400,16,46,14
+English Bulldog,2500,1500,23,40,8
+English Mastiff,3200,1300,68,77,8
+Samoyed,3500,1200,28,54,12
+Tibetan Terrier,2600,1100,17,40,14
+Toy Fox Terrier,1300,1000,3,25,15
+Silky Terrier,1600,900,5,23,15
+Staffordshire Bull Terrier,2200,800,25,40,12
+Scottish Terrier,1800,700,9,28,13
+Westie (West Highland White Terrier),1900,600,10,28,15
+Cairn Terrier,1700,500,8,28,13
+Irish Wolfhound,2800,400,54,81,7
+Japanese Chin,2200,300,3,28,13
+Kerry Blue Terrier,2100,200,16,43,13
+Norwich Terrier,1600,100,5,25,14
+Afghan Hound,2500,150,27,67,12
+American Eskimo Dog,1800,220,12,42,15
+Basenji,2000,190,11,43,13
+Belgian Malinois,1700,300,29,61,14
+Bichon Frise,1900,112345,7,25,14
+Black Russian Terrier,2300,110,48,70,10
+Border Terrier,1200,250,6,28,14
+Canaan Dog,2100,130,20,54,13
+Cardigan Welsh Corgi,1800,160,14,30,12
+Chesapeake Bay Retriever,2400,280,30,58,12
+Chinese Crested,2200,80,5,28,13
+Clumber Spaniel,2600,90,34,55,12
+Dandie Dinmont Terrier,2300,60,8,21,13
+Finnish Spitz,2000,70,20,44,13
+Glen of Imaal Terrier,1700,50,14,31,12
+Irish Terrier,2100,75,13,46,14
+Klee Kai,2200,40,10,33,14
+Lakeland Terrier,1900,90,7,35,13
+Norwegian Lundehund,2500,30,6,33,13
+Otterhound,2400,20,50,70,10
+Pharaoh Hound,2100,100,20,63,13
+Portuguese Water Dog,2300,150,27,55,12
+Saluki,2000,80,23,58,12
+Sealyham Terrier,1800,45,10,25,14
